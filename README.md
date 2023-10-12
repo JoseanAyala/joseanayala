@@ -1,4 +1,4 @@
-![Banner](https://th.bing.com/th/id/OIG.HbSNZQx8eMFBgPPs6JDJ?pid=ImgGn)
+![Banner](https://media.licdn.com/dms/image/D4E16AQHQx9LJJFX0Gw/profile-displaybackgroundimage-shrink_350_1400/0/1697149450991?e=1702512000&v=beta&t=M9e0zk0khogoXh2Wd0tmZdS9hnTqXvXuIBp0WAaXGT0)
 
 # Hi, I'm Josean Ayala 👋
 
