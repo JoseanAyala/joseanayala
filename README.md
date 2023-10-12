@@ -1,6 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/D4E16AQHQx9LJJFX0Gw/profile-displaybackgroundimage-shrink_350_1400/0/1697149450991?e=1702512000&v=beta&t=M9e0zk0khogoXh2Wd0tmZdS9hnTqXvXuIBp0WAaXGT0)
-
-# Hi, I'm Josean Ayala 👋
+![Header](header.png)
 
 ## About Me
 
@@ -20,7 +18,7 @@ I'm a dedicated software engineer with a strong background in full stack develop
 
 I've been an integral part of the Granicus team, contributing to various projects:
 
-- 🚀 Develop embeddable widgets using React, JavaScript, and Webpack, allowing clients to seamlessly enhance their websites.
+- 🚀 Developing embeddable widgets using React, JavaScript, and Webpack, allowing clients to seamlessly enhance their websites.
 
 - 💪 Manage a highly available B2B SaaS product with the potential to impact millions of users, collaborating effectively with cross-functional teams.
 
