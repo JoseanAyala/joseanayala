@@ -10,7 +10,7 @@ I'm a dedicated software engineer with a strong background in full stack develop
 
 - 📧 **Contact:** Feel free to get in touch via email at [joseanluis2@gmail.com](mailto:joseanluis2@gmail.com).
 
-- 🔗 **Connect:** Let's connect on [LinkedIn](https://www.linkedin.com/in/joseanayala) and explore my code on [GitHub](https://github.com/joseanayala).
+- 🔗 **Connect:** Let's connect on [LinkedIn](https://www.linkedin.com/in/joseanayala).
 
 ## Professional Journey
 
