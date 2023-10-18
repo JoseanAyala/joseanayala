@@ -26,7 +26,7 @@ I've been an integral part of the Granicus team, contributing to various project
 
 I'm proficient in a variety of technologies:
 
-- **Languages:** TypeScript/JavaScript, C#, HTML/CSS, SQL
+- **Languages:** TypeScript/JavaScript, C#, GO, HTML/CSS, SQL
 - **Frameworks/Libraries:** React, React MUI, Tailwind CSS, Redux, Webpack
 - **Databases/Tools:** MSSQL, Elasticsearch, Azure DevOps, Git, Postman, NPM
 
