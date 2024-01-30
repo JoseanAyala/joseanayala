@@ -4,7 +4,7 @@
 
 I'm a dedicated software engineer with a strong background in full stack development. My passion for creating innovative solutions is the driving force behind my work. Here's a bit about me:
 
-- 💼 **Current Position:** Software Engineer 3 at Granicus.
+- 💼 **Current Position:** Frontend Engineer at Inkit.
 
 - 🌐 **Website:** Explore more about me on my [personal website](https://joseanayala.vercel.app).
 
