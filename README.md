@@ -8,8 +8,6 @@ I'm a dedicated software engineer with a strong background in full stack develop
 
 - 🌐 **Website:** Explore more about me on my [personal website](https://joseanayala.vercel.app).
 
-- 📧 **Contact:** Feel free to get in touch via email at [joseanluis2@gmail.com](mailto:joseanluis2@gmail.com).
-
 - 🔗 **Connect:** Let's connect on [LinkedIn](https://www.linkedin.com/in/joseanayala).
 
 ## Professional Journey
