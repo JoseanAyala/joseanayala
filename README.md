@@ -15,17 +15,17 @@ I'm a dedicated software engineer with a strong background in full stack develop
 
 I've been an integral part of the Granicus team, contributing to various projects:
 
-- 🚀 Developing SaaS product webapps.
+- Developing SaaS product webapps.
 
 ### Software Engineer at Granicus
 
 I've been an integral part of the Granicus team, contributing to various projects:
 
-- 🚀 Developing embeddable widgets using React, JavaScript, and Webpack, allowing clients to seamlessly enhance their websites.
+- Developing embeddable widgets using React, JavaScript, and Webpack, allowing clients to seamlessly enhance their websites.
 
-- 💪 Manage a highly available B2B SaaS product with the potential to impact millions of users, collaborating effectively with cross-functional teams.
+- Manage a highly available B2B SaaS product with the potential to impact millions of users, collaborating effectively with cross-functional teams.
 
-## My Tech Toolbox 🧰
+## My Tech Toolbox
 
 I'm proficient in a variety of technologies:
 
@@ -35,8 +35,7 @@ I'm proficient in a variety of technologies:
 
 ## Academic Background
 
-- 🎓 Bachelor of Science in Computer Science
-- 📆 Graduated in December 2019
+- Bachelor of Science in Computer Science
 
 ## Let's Connect and Collaborate!
 
