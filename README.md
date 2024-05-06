@@ -13,6 +13,8 @@ I'm a dedicated software engineer with a strong background in full stack develop
 ## Professional Journey
 ### Software Engineer at Inkit
 
+- Working as a Frontend engineer developing on a Secure Document Generation (SDG) SaaS product. 
+
 ### Software Engineer at Granicus
 
 Was an integral part of the Granicus team, contributing to various projects:
