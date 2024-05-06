@@ -39,4 +39,4 @@ I'm proficient in a variety of technologies:
 
 ## Let's Connect and Collaborate!
 
-Whether it's coding, problem-solving, or discussing the latest tech trends, I'm always open to meaningful tech discussions. Let's connect and explore potential collaboration opportunities! 🚀
+Whether it's coding, problem-solving, or discussing the latest tech trends, I'm always open to meaningful tech discussions. Let's connect and explore potential collaboration opportunities!
