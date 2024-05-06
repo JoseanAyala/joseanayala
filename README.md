@@ -11,6 +11,11 @@ I'm a dedicated software engineer with a strong background in full stack develop
 - 🔗 **Connect:** Let's connect on [LinkedIn](https://www.linkedin.com/in/joseanayala).
 
 ## Professional Journey
+### Software Engineer at Inkit
+
+I've been an integral part of the Granicus team, contributing to various projects:
+
+- 🚀 Developing SaaS product webapps.
 
 ### Software Engineer at Granicus
 
