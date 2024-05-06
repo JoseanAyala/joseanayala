@@ -13,17 +13,13 @@ I'm a dedicated software engineer with a strong background in full stack develop
 ## Professional Journey
 ### Software Engineer at Inkit
 
-I've been an integral part of the Granicus team, contributing to various projects:
-
-- Developing SaaS product webapps.
-
 ### Software Engineer at Granicus
 
-I've been an integral part of the Granicus team, contributing to various projects:
+Was an integral part of the Granicus team, contributing to various projects:
 
-- Developing embeddable widgets using React, JavaScript, and Webpack, allowing clients to seamlessly enhance their websites.
+- Developed embeddable widgets using React, JavaScript, and Webpack, allowing clients to seamlessly enhance their websites.
 
-- Manage a highly available B2B SaaS product with the potential to impact millions of users, collaborating effectively with cross-functional teams.
+- Managed a highly available B2B SaaS product with the potential to impact millions of users, collaborating effectively with cross-functional teams.
 
 ## My Tech Toolbox
 
