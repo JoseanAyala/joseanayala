@@ -4,7 +4,7 @@
 
 I'm a dedicated software engineer with a strong background in full stack development. My passion for creating innovative solutions is the driving force behind my work. Here's a bit about me:
 
-- 💼 **Current Position:** Frontend Engineer at Inkit.
+- 💼 **Current Position:** Software Engineer at Inkit.
 
 - 🌐 **Website:** Explore more about me on my [personal website](https://joseanayala.vercel.app).
 
@@ -13,7 +13,7 @@ I'm a dedicated software engineer with a strong background in full stack develop
 ## Professional Journey
 ### Software Engineer at Inkit
 
-- Working as a Frontend engineer developing on a Secure Document Generation (SDG) SaaS product. 
+- Developing a security focused document generation platform. 
 
 ### Software Engineer at Granicus
 
